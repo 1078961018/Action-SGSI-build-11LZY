@@ -6,19 +6,19 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://download.meizu.com/Firmware/Flyme/m2110/9.21.12.13/cn_daily/20211213143628/2166231a/update.zip'
+        default: 'https://hugeota.d.miui.com/22.6.1/miui_TUCANA_22.6.1_7c29a4a549_11.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'update.zip'
+        default: 'miui_TUCANA_22.6.1_7c29a4a549_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'flyme'
+        default: 'miui'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'mblue10SGSI.zip'
+        default: 'cc9proSGSI.zip'
 
 
 
